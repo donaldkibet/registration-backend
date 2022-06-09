@@ -1,0 +1,48 @@
+{
+    "counties": [
+        {
+            "id": "01",
+            "name": "Mombasa",
+            "subCounties": [
+                {
+                    "id": "M01",
+                    "name": "Kisauni",
+                    "wards": [
+                        {
+                            "id": "KS-01",
+                            "name": "Mtwapa"
+                        },
+                        {
+                            "id": "KS-02",
+                            "name": "Nyali"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "name": "Nairobi",
+            "subCounties": [
+                {
+                    "id": "N01",
+                    "name": "Westlands",
+                    "wards": []
+                },
+                {
+                    "id": "N02",
+                    "name": "Langata",
+                    "wards": []
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "name": "Nakuru"
+        },
+        {
+            "id": "04",
+            "name": "Kisumu"
+        }
+    ]
+}
